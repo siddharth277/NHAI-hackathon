@@ -581,7 +581,7 @@ Downloads as a formal NHAI `.txt` work order.
 | **Solution Type** | AI/ML + Computer Vision |
 | **Team Name** | CUTIEFR |
 | **Institution** | IIT Dharwad |
-| **Members** | Siddharth Shukla (is24bm039@iitdh.ac.in) · Ishan Narayan Shukla · Harsh Dubey · Kushagra Gupta |
+| **TEAM LEAD** | Siddharth Shukla (is24bm039@iitdh.ac.in) 
 | **Submission Date** | 23 April 2026 |
 
 ---
