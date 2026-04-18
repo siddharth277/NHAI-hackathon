@@ -30,7 +30,7 @@
      Place demo_animation.svg in the same folder as this README.
      GitHub renders SVG files with CSS animations automatically. -->
 
-<img src="demo_animation.svg" width="860" alt="ReflectAI Live Pipeline Animation" />
+<img src="ReflectAI_Demo.mp4" width="860" alt="ReflectAI Live Pipeline Animation" />
 
 
 <div align="center">
