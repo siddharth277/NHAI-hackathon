@@ -1,0 +1,32 @@
+# ============================================================
+# ReflectAI -- NHAI Hackathon (Groq Edition)
+# requirements.txt
+#
+# Install: pip install -r requirements.txt
+# ============================================================
+
+# ── Core UI ─────────────────────────────────────────────────
+streamlit>=1.32.0
+numpy>=1.24.0
+pandas>=2.0.0
+Pillow>=10.0.0
+
+# ── Computer Vision ──────────────────────────────────────────
+opencv-python-headless>=4.9.0
+ultralytics>=8.1.0          # YOLOv8 — downloads yolov8n.pt (~6 MB) automatically
+
+# ── Deep Learning (feature_extractor.py) ────────────────────
+torch>=2.1.0
+torchvision>=0.16.0
+scikit-learn>=1.3.0
+
+# ── Groq AI API ──────────────────────────────────────────────
+groq>=0.9.0                  # pip install groq
+                             # Key format: gsk_xxxxxxxxxxxxxxxxxxxxxxxx
+                             # Get free key at: https://console.groq.com
+
+# ── PDF report generation (optional) ────────────────────────
+fpdf2>=2.7.0
+
+# ── Dev / testing ────────────────────────────────────────────
+pytest>=7.4.0

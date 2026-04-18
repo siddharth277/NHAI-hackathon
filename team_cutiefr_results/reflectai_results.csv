@@ -1,0 +1,5 @@
+Element Type,Confidence,RA Score,IRC Min,Status
+Lane Centreline Marking,0.85,102.7,80,COMPLIANT
+Edge Lane Marking,0.92,74.8,80,WARNING
+Road Stud / RPM,0.82,199.0,150,COMPLIANT
+Shoulder Sign,0.89,251.0,250,COMPLIANT
