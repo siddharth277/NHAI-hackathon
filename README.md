@@ -5,7 +5,7 @@
 # ReflectAI
 ### AI-Powered Retroreflectivity Measurement System
 
-**6th NHAI Innovation Hackathon · Team CUTIEFR · IIT Dharwad**
+**6th NHAI Innovation Hackathon · Team CUTIEFR ·**
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-FF6B6B?style=flat-square)](https://ultralytics.com)
